@@ -5,17 +5,8 @@
 
 ## Single Command :
 ```
-apt update ; apt install git python python2 -y ; git clone https://github.com/imad009/DarkPBF2 ; cd DarkPBF2 ; python darkpbf.py
+apt update ; apt install git python python2 -y ; git clone https://github.com/imad009/DarkPBF2 ; cd DarkPBF2 ; pip install bs4 ; python darkpbf.py
 ```
-After that, take a new session and enter the command
-```
-pip install bs4
-```
-Then go to the 1st session and enter
-```
-python darkpbf.py
-```
-
 
 ### <<< If you copy , Then Give me The Credits >>>
 ### Protect yourself from this attack:
